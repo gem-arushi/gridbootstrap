@@ -1,0 +1,38 @@
+.container {
+    border: 5px solid black;
+}
+.logo {
+    color: black;
+}
+.wrapper {
+    margin: 150px auto;
+    width:70%
+}
+#image1 {
+    max-width: 320px;
+    float:left;
+}
+
+#image3 {
+    display: block;
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+.headings {
+    margin-left: 150px;
+}
+h2 {
+    margin-left: 300px;
+    margin-top: 100px;
+}
+h3 {
+    margin-left: 300px;
+}
+#card1 {
+    float:left;
+}
+.btn1 {
+    margin-left: 600px;
+}
